@@ -54,3 +54,4 @@ and get the BRISQUE feature or score many times:
 		
     brisq.get_feature(‘/path’)
 	brisq.get_score(‘/image_path’)
+
