@@ -1,10 +1,7 @@
-# Optimal Score of an Image Quality
-
-
 ## Blind/Referenceless Image Spatial Quality Evaluator (BRISQUE) Algorithm
 
 
-#### Algorithm
+### Algorithm
 
  Step 1- Extract Natural Scene Statistics (NSS)
     
@@ -17,7 +14,7 @@
  Step 3- Prediction of Image Quality Score
 
 
-#### Procedure to perform BRISQUE Algorithm
+### Procedure to perform BRISQUE Algorithm
 
 Step 1- Load image
   
