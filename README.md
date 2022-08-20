@@ -6,18 +6,18 @@
 
 #### Algorithm
 
-  Step 1- Extract Natural Scene Statistics (NSS)
+ Step 1- Extract Natural Scene Statistics (NSS)
     
-   Step 1.1- Mean Substracted Contrast Normalization (MSCN) 
+ Step 1.1- Mean Substracted Contrast Normalization (MSCN) 
     
-   Step 1.2- Pairwise products for neighbourhood relationships
+ Step 1.2- Pairwise products for neighbourhood relationships
   
-  Step 2- Calculate Feature Vectors
+ Step 2- Calculate Feature Vectors
   
-  Step 3- Prediction of Image Quality Score
+ Step 3- Prediction of Image Quality Score
 
 
-#### Procedure
+#### Procedure to perform BRISQUE Algorithm
 
 Step 1- Load image
   
