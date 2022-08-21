@@ -12,19 +12,6 @@
  Step 2- Calculate Feature Vectors
   
  Step 3- Prediction of Image Quality Score
-
-
-### Procedure to perform BRISQUE Algorithm
-
-Step 1- Load image
-  
-Step 2- Calculate coefficients 
-  
-Step 3- Fit coefficients to generalised Gaussian distribution 
-  
-Step 4- Resize image and calculate BRISQUE features
-  
-Step 5- Scale features and feed the SVR 
  
 
 ### Packages
