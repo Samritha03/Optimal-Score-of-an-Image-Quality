@@ -5,9 +5,9 @@
 
  Step 1- Extract Natural Scene Statistics (NSS)
     
- Step 1.1- Mean Substracted Contrast Normalization (MSCN) 
+ Step 1a- Mean Substracted Contrast Normalization (MSCN) 
     
- Step 1.2- Pairwise products for neighbourhood relationships
+ Step 1b- Pairwise products for neighbourhood relationships
   
  Step 2- Calculate Feature Vectors
   
